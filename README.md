@@ -8,7 +8,7 @@ To install this Laravel project. Kindly refer [here](https://laravel.com/docs/4.
 1. Clone the code in this repository
     
     ```bash
-    git clone https://baron_gobi@bitbucket.org/baron_gobi/infinity.git
+    git clone https://github.com/Barongobber/todo_list_reminder.git
     ```
 
 2. On the project root, run `composer install` to install all dependencies.
