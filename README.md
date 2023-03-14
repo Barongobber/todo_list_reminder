@@ -1,5 +1,5 @@
 # Ron's Todo List
-This is a todo-list project which includes email notification reminder as a purpose of fulfilling task assignment given by Infinity
+This is a todo-list project which includes email notification reminder
 
 ## Requirements
 To install this Laravel project. Kindly refer [here](https://laravel.com/docs/4.2/quick#installation) to perform installation of Laravel successfully
@@ -74,4 +74,4 @@ To install this Laravel project. Kindly refer [here](https://laravel.com/docs/4.
 ## Flow of using the system
 > Register -> Login -> Add Todo List along with Task(s) -> set reminder time (5 minutes ahead from now is highly recommended) -> turn the notification toogle on! 
 
-**Finish!!** The setup should be done. Anything wrong? Hit me up at barongobirn@gmail.com or Whatsapp at +6281803926756. 
+**Finish!!** The setup should be done. Anything wrong? Hit me up at barongobirn@gmail.com. 
